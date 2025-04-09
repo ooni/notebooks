@@ -1,5 +1,7 @@
-#  Methods for detecting and mitigating faulty measurements: OONI anonymous credentials system
+# Methods for Detecting and Mitigating Faulty Measurements: OONI Anonymous Credentials System
 
-These notebooks were used as part of the research for the Anonymous Credentials project, to find out unexpected patterns in measurements, watch out for faulty data, and understand why this happens.
+These notebooks were created as part of the research for the Anonymous Credentials project. They aim to identify unexpected patterns in measurements, detect faulty data, and explore the underlying causes of such issues.
 
-See: https://github.com/ooni/backend/issues/912
+Related issue: https://github.com/ooni/backend/issues/912
+
+Note: These notebooks are designed to run on our internal notebook server. They may not work properly in other environments.
